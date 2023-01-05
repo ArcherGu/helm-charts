@@ -1,3 +1,3 @@
 # Helm Charts
 
-some helm chats...
+Some helm charts... 😊
